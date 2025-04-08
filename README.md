@@ -1,4 +1,4 @@
-# WebG9
+# WebG9 - Web bán điện thoại
 Đồ án web nhóm 9 gồm cách thành viên:  
 - MSSV: 3122410043 - Cao Tiến Cường  
 - MSSV: 3122410391 - Phan Văn Thảo  
